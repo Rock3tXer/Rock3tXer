@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **Pixel Art and Game Dev**
 
-- 👨‍💻 All of my projects are available at [https://rocket-0pre.onrender.com/](https://rocket-0pre.onrender.com/)
-
+- 👨‍💻 All of my projects are available at [https://rockie.onrender.com](https://rockie.onrender.com)
 - 📫 How to reach me **rocketxer@gmail.com**
 
-- ⚡ Favorite stuff **Anime, Video games and Fantasy books**
+- ⚡ Favorite stuff **Anime, Video games, and Fantasy books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
