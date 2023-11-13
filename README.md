@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Adrian or Rock3t</h1>
+<h1 align="center">Hello 👋 I'm Adrian or Rockie</h1>
 <h3 align="center">I'm a University student trying to learn</h3>
 
 - 🌱 I’m currently learning **Pixel Art and Game Dev**
